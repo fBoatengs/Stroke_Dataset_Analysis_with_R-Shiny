@@ -3,5 +3,5 @@ Stroke is a type of cardiovascular disease, with two types: ischemic and hemorrh
 
 In this project, we have designed 3 tabs to provide users with a comprehensive analysis of the data set. The first tab presents the descriptive statistics of the data set, allowing users to navigate through the variables to get a summary of individuals with and without stroke. The second tab allows users to create visualizations based on the selected variables and make inferences about them. Lastly, the third tab enables users to predict stroke occurrence based on the generalized linear model .
 
-# Shinyapp.io link (Link to the Shiny app)
-https://fboatengs.shinyapps.io/sibs/ 
+## Shinyapp.io link 
+  [Click here for the Link to the Shiny app](https://fboatengs.shinyapps.io/sibs/) 
