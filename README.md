@@ -1,4 +1,4 @@
-# Stroke Dataset Analysis with Shiny
+# Stroke Dataset Analysis with R-Shiny
 Stroke is a type of cardiovascular disease, with two types: ischemic and hemorrhagic stroke. It is the second leading cause of death and the third leading cause of disability globally. In 2016, 10.2% of total deaths were due to stroke. Approximately 15 million individuals worldwide experience a stroke each year, with 5 million deaths and 5 million permanent disabilities. Risk factors include high blood pressure, high cholesterol, tobacco use, diabetes, physical inactivity, unhealthy diet, harmful use of alcohol, kidney disease, and obesity.
 
 This repository contains a Shiny project that analyzes the Stroke dataset. The project consists of three tabs that provide different functionalities:
